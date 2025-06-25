@@ -5,7 +5,7 @@ Ejercicio: Habitaciones Coloreadas en un plano ASCII
 
 Lenguaje: JavaScript
 Entorno: Node.js (versión recomendada 14+)
-Ejecución: node colorizeRooms.js
+Ejecución: node ColorizeRooms.js
 
 Colores: ANSI escape codes para imprimir habitaciones con distintos colores
 Algoritmo: DFS para recorrer habitaciones y marcar cada una con un color único
